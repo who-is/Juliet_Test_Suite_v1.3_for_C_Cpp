@@ -289,10 +289,10 @@
     cppvalsfile = <Default>
     cglbfile = <Default>
     cppglbfile = <Default>
-    cstandards_model = MISRA-C:2004
-    cexternal_standard = MISRA-C:2004
-    cppstandards_model = MISRA-C++:2008
-    cppexternal_standard = MISRA-C++:2008
+    cstandards_model = CWE
+    cexternal_standard = CWE
+    cppstandards_model = CWE
+    cppexternal_standard = CWE
     sysearch = C:\Users\Administrator\.jenkins\workspace\LDRA_Juliet_Test_Suite_v1.3_for_C_Cpp\sysearch.dat
     sysppvar = C:\Users\Administrator\.jenkins\workspace\LDRA_Juliet_Test_Suite_v1.3_for_C_Cpp\sysppvar.dat
     dynamic_run_number = 1
